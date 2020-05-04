@@ -5,5 +5,5 @@ In order to improve the operation of current call management center. Travel comp
 
 ## List of Stakeholders 
 * Customers
-* Company's relationship manager 
-* Company's employees 
+* relationship manager 
+* employees 
