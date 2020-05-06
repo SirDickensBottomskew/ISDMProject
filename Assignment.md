@@ -10,4 +10,5 @@ Relationship Managers, Employees, Travel Company CEO, Travel Company Board of Di
 
 CEO: ![alt text](https://raw.githubusercontent.com/SirDickensBottomskew/ISDMProject/Samer-EmpathyMaps/IMG/CEO%20Empathy.PNG 'CEO Empathy Map')
 
-Relationship Managers: ![alt text](https://raw.githubusercontent.com/SirDickensBottomskew/ISDMProject/Samer-EmpathyMaps/IMG/RM%20Empathy.PNG 'RM Empathy Map')
+### Relationship Managers: ![alt text](https://raw.githubusercontent.com/SirDickensBottomskew/ISDMProject/Samer-EmpathyMaps/IMG/RM%20Empathy.PNG 'RM Empathy Map')
+
