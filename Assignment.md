@@ -8,3 +8,5 @@ Relationship Managers, Employees, Travel Company CEO, Travel Company Board of Di
 
 ## Empathy Maps
 *Empathy Maps go here*
+
+Inline-style: ![alt text](https://raw.githubusercontent.com/SirDickensBottomskew/ISDMProject/Samer-EmpathyMaps/IMG/CEO%20Empathy.PNG 'CEO Empathy Map')
