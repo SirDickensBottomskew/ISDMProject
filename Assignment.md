@@ -7,6 +7,7 @@ In order to improve the operation of current call management center. Travel comp
 Relationship Managers, Employees, Travel Company CEO, Travel Company Board of Directors, Customers
 
 ## Empathy Maps
-*Empathy Maps go here*
 
-Inline-style: ![alt text](https://raw.githubusercontent.com/SirDickensBottomskew/ISDMProject/Samer-EmpathyMaps/IMG/CEO%20Empathy.PNG 'CEO Empathy Map')
+CEO: ![alt text](https://raw.githubusercontent.com/SirDickensBottomskew/ISDMProject/Samer-EmpathyMaps/IMG/CEO%20Empathy.PNG 'CEO Empathy Map')
+
+Relationship Managers: ![alt text](https://raw.githubusercontent.com/SirDickensBottomskew/ISDMProject/Samer-EmpathyMaps/IMG/RM%20Empathy.PNG 'RM Empathy Map')
