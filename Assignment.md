@@ -16,3 +16,5 @@ Relationship Managers, Employees, Travel Company CEO, Travel Company Board of Di
 ### Employee: ![alt text](https://raw.githubusercontent.com/SirDickensBottomskew/ISDMProject/Samer-EmpathyMaps/IMG/Employee%20Empathy.PNG 'Employee Empathy Map')
 
 ### Customer: ![alt text](https://raw.githubusercontent.com/SirDickensBottomskew/ISDMProject/Samer-EmpathyMaps/IMG/Customer%20Empathy.PNG 'Customer Empathy Map')
+
+### Board of Directors: ![alt text](https://raw.githubusercontent.com/SirDickensBottomskew/ISDMProject/JKalair-patch-1-Empathy-Map-BOD/empathy%20map%20board%20of%20directors.PNG 'Customer Empathy Map')
