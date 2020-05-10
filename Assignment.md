@@ -24,3 +24,5 @@ Relationship Managers, Employees, Travel Company CEO, Travel Company Board of Di
 Improve operation of in-house Call Management Center (CMC).
 
 ## Design Thinking Approach
+
+### Reflection
