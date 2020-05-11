@@ -5,6 +5,11 @@
 ## Problem Definition  
 In order to improve the operation of current call management center. Travel company would like to develop an information system that would potentially improve the operations of the current call management center. This will assist both inbound and outbound calls in routing and improved flow rate. 
 
+There are many aspects that need to be addressed. Ideally call management center would like to include a system that could adjust the call flow rate to suitable relationship manager that could assist in sales and holiday packages. In terms of relationship manager's perspective the system should match customers according to their skills, customer profile and product knowledge. This could improve the call flow rate and indirectly lead to a positive customer experience. 
+
+
+
+
 ## Stakeholders
 Relationship Managers, Employees, Travel Company CEO, Travel Company Board of Directors, Customers
 
