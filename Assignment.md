@@ -11,7 +11,11 @@ There are many aspects that need to be addressed. Ideally call management center
 
 
 ## Stakeholders
-Relationship Managers, Employees, Travel Company CEO, Travel Company Board of Directors, Customers
+*Relationship Managers
+*Employees
+*Travel Company CEO 
+*Travel Company Board of Directors 
+*Customers
 
 ## Empathy Maps
 
@@ -26,7 +30,12 @@ Relationship Managers, Employees, Travel Company CEO, Travel Company Board of Di
 ### Board of Directors: ![alt text](https://raw.githubusercontent.com/SirDickensBottomskew/ISDMProject/JKalair-patch-1-Empathy-Map-BOD/empathy%20map%20board%20of%20directors.PNG 'Customer Empathy Map')
 
 ## Objectives
-Improve operation of in-house Call Management Center (CMC).
+*Improve operation of in-house Call Management Center (CMC).
+*Improve profiling of customers
+*Help Relationship Managers deal with customers
+*Create a satisfying customer experience over the phone
+*Match Customers with appropriate RMs
+
 
 ## Design Thinking Approach
 
