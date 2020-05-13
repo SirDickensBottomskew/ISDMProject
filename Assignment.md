@@ -11,7 +11,7 @@ There are many aspects that need to be addressed. Ideally call management center
 
 * Travel Company Board of Directors
 * Travel Company CEO
-* Travel Company CF0
+* Travel Company CFO
 * Travel Company CTO and CIO
 * Travel Company Relationship Managers
 * Travel Company Project Mangers (IT and non IT included)
