@@ -34,8 +34,8 @@ There are many aspects that need to be addressed. Ideally call management center
 
 * Improve operation of in-house Call Management Center (CMC)
 * Create all the new features under one new CRM system this include but not limited to:
-    *Improve profiling of customers
-    *Match Customers with appropriate RMs
+  * Improve profiling of customers
+  * Match Customers with appropriate RMs
 * Help Relationship Managers deal with customers
 * Create a satisfying customer experience over the phone
 
