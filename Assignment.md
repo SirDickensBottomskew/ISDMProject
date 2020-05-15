@@ -67,3 +67,13 @@ The board of directors need to see a positive influence on Relationship Managers
 ![Design Thinking Header](https://public-media.interaction-design.org/images/ux-daily/58089e358c6d5.jpg)
 
 ## Reflection
+
+## Use Case Diagrams
+
+## Activity Diagrams
+
+## Class Diagrams
+
+## Collaborative Diagrams
+
+## Competitive Advantages
