@@ -77,3 +77,15 @@ The board of directors need to see a positive influence on Relationship Managers
 ## Collaborative Diagrams
 
 ## Competitive Advantages
+
+* Centralised in house call handliong
+
+* Integrates well with software being developed
+
+* Allows for better data collection and analysis
+
+* Reduced long term costs
+
+* Automated caller authentication
+
+* Improved call quality
