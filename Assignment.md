@@ -78,7 +78,7 @@ The board of directors need to see a positive influence on Relationship Managers
 
 ## Competitive Advantages
 
-* Centralised in house call handliong
+* Centralised in house call handling
 
 * Integrates well with software being developed
 
