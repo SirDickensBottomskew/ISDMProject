@@ -1,3 +1,15 @@
+## HMW Statement - Board Director 
+ * How is updating the new CMC system will bring more profits?
+ * How much is the new system will cost?
+ * How much is the operational and maintance cost?
+ * Is there going to be a staff retraing program? if yes musch is it going to cost?
+
+
+## Assumptions
+ * having good customer support is seen as the new premium
+ * It going to cost at least millions dollar
+
+
 ## HMW Statement - CEO
 
 * HMW ensure RM profiles and skills are kept up to date?
