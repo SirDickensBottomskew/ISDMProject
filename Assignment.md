@@ -68,6 +68,8 @@ The board of directors need to see a positive influence on Relationship Managers
 
 ## Reflection
 
+The new CMC and CRM system must intergrate seamlessly while each indivial system can work seperately in case of one system failure. However, at this stage the new CMC is more important than the new CRM system system. Since the CMC system is far outdated after years of neglectant. When the new online booking system, online chatting support and email support introduced. Customer tend not use the telephone to book their trips or find support since at that time the customer feels its outdated and calling customer support have a long waiting time. However in recent years they as using more customer use the digital features. The system and the digital customer support are overwhelmed. Hence some customer started to go back using more phone call since it is faster to get their problem resolved. 
+
 ## Use Case Diagrams
 
 ## Activity Diagrams
