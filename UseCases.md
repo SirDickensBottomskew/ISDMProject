@@ -7,5 +7,5 @@
 
 ### Relationship Manager (RM) (Using the System)
 
-* Once the RM has made a call, the system will display the necessary customer information alongside a preplanned script catered for the sales pitch. The system will respond with information about the customers past purchases, preferences and possible future plans. The system will allow the RM to input any additional customer information so that future calls can be sorter even more effectively.
+* Once the RM has made a call, the system will display the necessary customer information alongside a preplanned script catered for the sales pitch. The system will respond with information about the customers past purchases, preferences and possible future plans. The system will allow the RM to input any additional customer information so that future calls can be sorted even more effectively.
 
