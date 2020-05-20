@@ -1,9 +1,12 @@
 ## Use Cases
 
+### Board of Director ()
+* The board of directors agree to support the new system if the system in the long term if the system can make profits or at the very least cover its own operational, maintance and system upgrade cost. 
+* The board of director also request that the system performance report (both technical and financial) to be made available to all member of the board of director at any time to justify the system. 
+
 ### CEO (Checking System Effectiveness)
 
 * The CEO regularly checks with RM managers who provide data to ensure that the system is working as intended so that the business can generate greater customer satisfaction and profits. 
-
 
 ### Relationship Manager (RM) (Using the System)
 
