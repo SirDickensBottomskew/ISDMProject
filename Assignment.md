@@ -71,15 +71,9 @@ Acheiving the previous objectives will result in the ultimate goal of increasing
 
 ![Design Thinking Header](https://public-media.interaction-design.org/images/ux-daily/58089e358c6d5.jpg)
 
-## Reflection
+## Reflection - HMWs and Project Assumptions
 
-### HMW Statement - Board Directors
- 
-* HMW use the new CMC system bring more profits?
- 
-* HMW show how much the new systems costs?
- 
-### HMW Statement - CEO
+### HMW Statements
 
 * HMW ensure RM profiles and skills are kept up to date?
 
@@ -89,8 +83,6 @@ Acheiving the previous objectives will result in the ultimate goal of increasing
 
 * HMW ensure that the system works effectively?
 
-### HMW Statement - Relationship Manager (RM)
-
 * HMW automatically route calls to the relevant RMs?
 
 * HMW organise customer profiles so RMs can see relevant information, e.g. needs and wants
@@ -99,16 +91,11 @@ Acheiving the previous objectives will result in the ultimate goal of increasing
 
 * HMW add new customer information into the database?
 
-### Customer HMWs
-
 * HMW connect Customers to an appropriate RM?
 
 * HMW speed up the process of connecting to an RM?
 
 * HMW make the wait time for the customers enjoyable or productive?
-
-
-### Employee's HMW
 
 * How might we design the system so it could build employee's profile which could potentially assist them in matching right customers according to their needs.
 
