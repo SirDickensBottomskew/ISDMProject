@@ -23,6 +23,9 @@ In summary, the core problem the travel company is facing is the slow rate of ca
 
 ### CEO: ![alt text](https://raw.githubusercontent.com/SirDickensBottomskew/ISDMProject/Samer-EmpathyMaps/IMG/CEO%20Empathy.PNG 'CEO Empathy Map')
 
+The CEO needs to increase the flow of CMC operations because he is then able to help the travel company and this branch expand and grow in the long term.
+
+The CEO needs to see and gauge each RM's number of sales because that will help him in keeping and hiring the good RMs to keep the company's reputation and increase call flow and sales.
 
 ### Relationship Managers: ![alt text](https://raw.githubusercontent.com/SirDickensBottomskew/ISDMProject/Samer-EmpathyMaps/IMG/RM%20Empathy.PNG 'RM Empathy Map')
 
@@ -57,9 +60,12 @@ The board of directors need to see a positive influence on Relationship Managers
 * Create new in-house Customer Relationship Manager (CRM) system with existing features and new features including but not limited to:
   * Improve operation of in-house Call Management Center (CMC)
   * Improve profiling of customers
+  * Assign RMs to products they are knowledgeable in 
   * Match Customers with appropriate RMs
-* Help Relationship Managers deal with customers
+* Help Relationship Managers sell holiday packages to customers
 * Create a satisfying customer experience over the phone
+
+Acheiving the previous objectives will result in the ultimate goal of increasing the flow of calls in the CMC.
 
 ## Design Thinking Approach
 
@@ -67,14 +73,12 @@ The board of directors need to see a positive influence on Relationship Managers
 
 ## Reflection
 
-### HMW Statement - Board Director 
+### HMW Statement - Board Directors
  
- * HMW use the new CMC system bring more profits?
+* HMW use the new CMC system bring more profits?
  
- * HMW How much is the new system will cost?
+* HMW show how much the new systems costs?
  
- * HMW retrain staff?
-
 ### HMW Statement - CEO
 
 * HMW ensure RM profiles and skills are kept up to date?
@@ -85,9 +89,6 @@ The board of directors need to see a positive influence on Relationship Managers
 
 * HMW ensure that the system works effectively?
 
-* HMW ensure that the system is saving the business money in the long term?
-
-
 ### HMW Statement - Relationship Manager (RM)
 
 * HMW automatically route calls to the relevant RMs?
@@ -97,7 +98,6 @@ The board of directors need to see a positive influence on Relationship Managers
 * HMW better connect customers with appropriate RMSs?
 
 * HMW add new customer information into the database?
-
 
 ### Customer HMWs
 
@@ -121,15 +121,13 @@ The board of directors need to see a positive influence on Relationship Managers
 
 * System can automatically find user's profile according to thier phone number
 
-* Appropriate budget and project time is available 
+* Appropriate budget and project time is available
 
 * All approvals have been received to progress with the project
 
-* We assume the CMC is able to route calls to the next most relevant RM if the primary RM is unavailable, e.g. on another call
+* The CMC system is able to route calls to the next most relevant RM if the initial RM is unavailable, e.g. on another call
 
-* We assume that the RMs will be provided necessary training to become familiar with the new processes
-
-* We assume customers consent to receive marketing/promotional calls 
+* We assume customers consent to receive marketing/promotional calls
 
 * The system has a way of handling customers with the same Customer score
 
