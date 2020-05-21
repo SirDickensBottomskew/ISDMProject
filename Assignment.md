@@ -124,7 +124,7 @@ Acheiving the previous objectives will result in the ultimate goal of increasing
 
 ## Use Case Diagrams
 
-## Activity Diagrams
+## Activity Diagrams - JK
 
 ## Class Diagrams
 
