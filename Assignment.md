@@ -106,7 +106,7 @@ Acheiving the previous objectives will result in the ultimate goal of increasing
 
 * System can access customer's database and transaction history from another department 
 
-* System can automatically find user's profile according to thier phone number
+* System can automatically find customer's profile according to thier phone number
 
 * Appropriate budget and project time is available
 
