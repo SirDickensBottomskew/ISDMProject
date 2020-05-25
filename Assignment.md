@@ -169,3 +169,5 @@ Acheiving the previous objectives will result in the ultimate goal of increasing
 * Automated caller authentication
 
 * Improved call quality
+
+Should the project fail, the travel company will lose all the money invested in the project, which may be catastrophic to the company as it may take a long time for the company to make up for its losses. Furthermore, the travel company may have to revert back to using old methodologies, which will cost the company even more money and wasted time in teaching RMs and employees to use the new system. This also has the consequence of ruining the reputation of both the travel company and the managers responsible for overseeing the project. 
