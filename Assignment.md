@@ -146,6 +146,8 @@ Acheiving the previous objectives will result in the ultimate goal of increasing
 
 ## Collaborative Diagrams
 
+### Collaborative Diagrams  ![Collaborative Diagrams](https://raw.githubusercontent.com/SirDickensBottomskew/ISDMProject/master/IMG/ISDM%20Collaboration%20Diagram.png 'Collaborative Diagrams')
+
 ## Competitive Advantages
 
 * Centralised in house call handling
