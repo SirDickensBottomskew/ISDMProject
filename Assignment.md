@@ -171,6 +171,7 @@ A few assumptions have been made about the current workings of the CMC:
 #### Use case 4
 
 #### Use case 5
+![alt text](https://raw.githubusercontent.com/SirDickensBottomskew/ISDMProject/master/IMG/Customer%20UseCase.png 'Use Case 5 diagram')
 
 ### Activity Diagrams
 
