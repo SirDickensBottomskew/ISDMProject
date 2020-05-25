@@ -151,9 +151,9 @@ A few assumptions have been made about the current workings of the CMC:
 
 * **Use Case 1:** System would ask meaningful questionnaire to employee about the company's holiday packages as well as the employee's age, sex, culture and language proficiency. Through the responses the profiler tool woll lodge these details and will be able to detect which is the right product that employee have knowledge of and assign that product or products to the RM
 
-* **Use Case 2:** The board of director also request that the system performance report (both technical and financial) to be made available to all member of the board of director at any time to justify the system. 
+* **Use Case 2:** The board of directors recieve a technical and a financial report of the system from RMs at the end of each week. This report will be used to evaluate the system and address any financial or technical disecrepencies. The board then makes a summary report detailing the system's current state and forwards it to the CEO. The CEO then recieves the report and evaluates the system based on it, and makes any executive decisions accordingly.
 
-* **Use Case 3:** The CEO regularly checks with RM managers who provide data to ensure that the system is working as intended so that the business can generate greater customer satisfaction and profits. 
+* **Use Case 3:** After every sale made by the RM, a sales counter is incremented. The RM then makes a report including the number of sales made and holdiday package sold. This report is then sent to the board of directors. This is to ensure that the system is working as intended and to evaluate RMs so that the business can generate greater customer satisfaction and profits. 
 
 * **Use Case 4:** Once the RM has made a call, the system will display the necessary customer information alongside a preplanned script catered for the sales pitch. The system will respond with information about the customers past purchases, preferences and possible future plans. The system will allow the RM to input any additional customer information so that future calls can be sorted even more effectively.
 
