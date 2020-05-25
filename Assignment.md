@@ -148,17 +148,29 @@ A few assumptions have been made about the current workings of the CMC:
 ## Use Cases and Diagrams - Prototype phase
 
 ### Use Cases:
-* System would ask meaningful questionnaire to employee about the company's holiday packages as well as the employee's age, sex, culture and language proficiency. Through the responses the profiler tool woll lodge these details and will be able to detect which is the right product that employee have knowledge of and assign that product or products to the RM
 
-* The board of director also request that the system performance report (both technical and financial) to be made available to all member of the board of director at any time to justify the system. 
+* **Use Case 1:** System would ask meaningful questionnaire to employee about the company's holiday packages as well as the employee's age, sex, culture and language proficiency. Through the responses the profiler tool woll lodge these details and will be able to detect which is the right product that employee have knowledge of and assign that product or products to the RM
 
-* The CEO regularly checks with RM managers who provide data to ensure that the system is working as intended so that the business can generate greater customer satisfaction and profits. 
+* **Use Case 2:** The board of director also request that the system performance report (both technical and financial) to be made available to all member of the board of director at any time to justify the system. 
 
-* Once the RM has made a call, the system will display the necessary customer information alongside a preplanned script catered for the sales pitch. The system will respond with information about the customers past purchases, preferences and possible future plans. The system will allow the RM to input any additional customer information so that future calls can be sorted even more effectively.
+* **Use Case 3:** The CEO regularly checks with RM managers who provide data to ensure that the system is working as intended so that the business can generate greater customer satisfaction and profits. 
 
-* Customer dials the CMC number, which then routes customers to an appropriate RM based on their customer profile and customer score. If it takes too long to connect, the customer connects to the Automated Voice Response (AVR). AVR asks customer about nature of package and the customer answers. The AVR then routes customers to closest available RM. If two customers have the same customer score, customers who have waited longer are prioritized.
+* **Use Case 4:** Once the RM has made a call, the system will display the necessary customer information alongside a preplanned script catered for the sales pitch. The system will respond with information about the customers past purchases, preferences and possible future plans. The system will allow the RM to input any additional customer information so that future calls can be sorted even more effectively.
+
+* **Use Case 5:** Customer dials the CMC number, which then routes customers to an appropriate RM based on their customer profile and customer score. If it takes too long to connect, the customer connects to the Automated Voice Response (AVR). AVR asks customer about nature of package and the customer answers. The AVR then routes customers to closest available RM. If two customers have the same customer score, customers who have waited longer are prioritized.
 
 ### Use Case Diagrams
+
+#### Use case 1:
+![alt text](https://raw.githubusercontent.com/SirDickensBottomskew/ISDMProject/master/IMG/Questionnaire%20Use%20case.png 'Use Case 1 diagram')
+
+#### Use case 2
+
+#### Use case 3
+
+#### Use case 4
+
+#### Use case 5
 
 ### Activity Diagrams
 
