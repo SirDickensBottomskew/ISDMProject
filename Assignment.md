@@ -168,6 +168,7 @@ A few assumptions have been made about the current workings of the CMC:
 ![alt text](https://raw.githubusercontent.com/SirDickensBottomskew/ISDMProject/master/IMG/Use%20Case%20Diagram%202.png 'Use Case 2 diagram')
 
 #### Use case 3
+![alt text](https://raw.githubusercontent.com/SirDickensBottomskew/ISDMProject/master/IMG/Use%20Case%20Diagram%203.png 'Use Case 3 diagram')
 
 #### Use case 4
 
