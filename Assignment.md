@@ -137,18 +137,26 @@ Acheiving the previous objectives will result in the ultimate goal of increasing
 
 ## Activity Diagrams
 
-### Inbound Calls ![alt text](https://raw.githubusercontent.com/SirDickensBottomskew/ISDMProject/master/IMG/inbound%20call.png 'Inbound Calls Activity Diagram')
+### Inbound Calls
+
+![alt text](https://raw.githubusercontent.com/SirDickensBottomskew/ISDMProject/master/IMG/inbound%20call.png 'Inbound Calls Activity Diagram')
 
 
-### Outbound Calls ![alt text](https://raw.githubusercontent.com/SirDickensBottomskew/ISDMProject/master/IMG/outbound%20call.png 'Outbound Calls Activity Diagram')
+### Outbound Calls
 
-## Class Diagrams ![alt text](https://raw.githubusercontent.com/SirDickensBottomskew/ISDMProject/master/IMG/class_diagram_updated.jpg 'Class Diagram')
+![alt text](https://raw.githubusercontent.com/SirDickensBottomskew/ISDMProject/master/IMG/outbound%20call.png 'Outbound Calls Activity Diagram')
+
+## Class Diagrams
+
+![alt text](https://raw.githubusercontent.com/SirDickensBottomskew/ISDMProject/master/IMG/class_diagram_updated.jpg 'Class Diagram')
 
 ## Collaborative Diagrams
 
-### Collaborative Diagrams  ![Collaborative Diagrams](https://raw.githubusercontent.com/SirDickensBottomskew/ISDMProject/master/IMG/ISDM%20Collaboration%20Diagram.png 'Collaborative Diagrams')
+### Collaborative Diagrams  
 
-## Competitive Advantages
+![alt text](https://raw.githubusercontent.com/SirDickensBottomskew/ISDMProject/master/IMG/ISDM%20Collaboration%20Diagram.png 'Collaborative Diagrams')
+
+## Competitive Advantages & Possible Project Failure
 
 * Centralised in house call handling
 
