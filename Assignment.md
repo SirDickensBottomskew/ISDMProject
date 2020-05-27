@@ -3,13 +3,9 @@
 
 ## Problem Definition - Define Phase
 
-In order to satisfy the increasing demand for better customer satisfaction and retention on the phone, the Travel Company decided to implement a new system in its Call Management Center (CMC) and integrate it with a new Customer Relationship Management (CRM) platform to handle and support the influx of inbound and outbound callers, as well as to satisfy the demands of the internal team to effectively communicate with customers.
+In order to satisfy the increasing demand for better customer satisfaction and retention on the phone, the Travel Company decided to implement a new system in its Call Management Center (CMC) to handle and support the influx of inbound and outbound callers, as well as to satisfy the demands of the internal team to effectively communicate with customers.
 
-In order to implement a new system, a problem needs to be addressed in order for the new system to address the problem and attempt to fix it. The travel company would want the system to include a function that could adjust the call flow rate to speed up customer calls. Additionally, from the RM's perspective, the system should match customers according to their skills, customer profile and product knowledge. This could improve the call flow rate and may lead to more satisfied customers.
-
-The second issue to be addressed is storage. The new system would need access to the customer database and transaction history. Since the new integrated system is planned to include features that can automatically find the user profile based on their phone number or manually by searching their name, this can check whether the customer is new or returning customer so that we can serve them better. From the perspective of the RM, this will benefit them since they can see the customer purchase history. Additionally, the new CRM should work seamlessly with the news over the phone purchasing system, in-store purchase or online purchase that the customer profile can dynamically update so the phone operator will always have the up to date version of the customer profile. Since the new system will combine a lot of data from the existing IS system, it would be a future proof system that can be used as a hub for automated advertisement or recommendation.
-
-In summary, the core problem the travel company is facing is the slow rate of call flow as a result of customers getting matched with any RM regardless of the RM's knowledge of the product. 
+From conducting the empathize phase below, it is concluded that the core problem the travel company is facing is the slow rate of call flow as a result of customers getting matched with Relatonship Managers that may not fit the customer's needs regardless of the RM's knowledge of the product. 
 
 ## Stakeholders
 
@@ -51,7 +47,7 @@ The final step is the testing phase. Prototypes are tested in a practical envrio
 
 * RMs need to call customers who might be interested in the product offering that the RMs offer because they do not want to call a customer and advertise a product that may not interest the customer, potentially losing out on a sale
 
-* RMs need to see customer profiles because it is easier to help the customer make an appropriate purchase if the RM is able to know the customer's needs and wants.
+* RMs need to view and update customer profiles because it is easier to help tailor a purchase to the customer.
 
 ### Employee: ![alt text](https://raw.githubusercontent.com/SirDickensBottomskew/ISDMProject/Samer-EmpathyMaps/IMG/Employee%20Empathy.PNG 'Employee Empathy Map')
 
@@ -79,35 +75,23 @@ The final step is the testing phase. Prototypes are tested in a practical envrio
 
 * The board of directors need to see a positive influence on Relationship Managers because this will allow the board to identify if their RMs are happy with how the system is functioning.
 
-## Objectives
 
-* Create new in-house Customer Relationship Manager (CRM) system with existing features and new features including but not limited to:
-  * Improve operation of in-house Call Management Center (CMC)
-  * Improve profiling of customers
-  * Assign RMs to products they are knowledgeable in 
-  * Match Customers with appropriate RMs
-* Help Relationship Managers sell holiday packages to customers
-* Create a satisfying customer experience over the phone
 
-Acheiving the previous objectives will result in the ultimate goal of increasing the flow of calls in the CMC.
-
-## Reflection - HMWs and Project Assumptions - Ideate Phase
+## Reflection - HMWs, objectives & Project Assumptions - Ideate Phase
 
 ### HMW Statements
 
 * HMW ensure RM profiles and skills are kept up to date?
 
-* HMW ensure that automatic outbound marketing/selling calls are not excessive?
+* HMW ensure that automatic outbound calls are not excessive?
 
 * HMW ensure customer satisfaction is achieved?
 
 * HMW ensure that the system works effectively?
 
-* HMW automatically route calls to the relevant RMs?
-
 * HMW organise customer profiles so RMs can see relevant information, e.g. needs and wants
 
-* HMW better connect customers with appropriate RMSs?
+* HMW better connect customers with appropriate RMs?
 
 * HMW add new customer information into the database?
 
@@ -117,11 +101,20 @@ Acheiving the previous objectives will result in the ultimate goal of increasing
 
 * HMW make the wait time for the customers enjoyable or productive?
 
-* How might we design the system so it could build employee's profile which could potentially assist them in matching right customers according to their needs.
+* How might we design the system so it could build employee's based on their  profile which could potentially assist them in matching right customers according to their needs.
 
 * How might we impliment questionnaire that could assist them in assigning them with right holiday packages which they have knowledge of
 
-These are placed in the product backlog, and are removed as each issue is solved
+### Objectives of the system:
+
+* Create a new in-house Customer Relationship Manager (CRM) system with existing and new features including:
+  * Improving operations of the in-house Call Management Center (CMC)
+  * Improve the profiling of customers
+  * Assign RMs to products they are knowledgeable in 
+  * Match Customers with appropriate RMs
+  * Help RMs sell holiday packages to customers
+  * Create a satisfying customer experience over the phone
+  * Help gauge progress levels of RMs
 
 ### Assumptions
 
@@ -205,4 +198,4 @@ Carrying on from this, as the system will be able to tailor sales pitches and pr
 
 Overall the proposed changes to the call management centre will allow the business to grow and tailor its operations to align with the expectations of its customers. By being able to satisfy the needs of its customers through the upgraded systems, the business will be able to continue growing over time whilst ensuring that the system is continuously working effectively.
 
-Should the project fail, the travel company will lose all the money invested in the project, which may be catastrophic to the company as it may take a long time for the company to make up for its losses. Furthermore, the travel company may have to revert back to using old methodologies, which will cost the company even more money and wasted time in teaching RMs and employees to use the new system. This also has the consequence of ruining the reputation of both the travel company and the managers responsible for overseeing the project. 
+However, should the project fail, the travel company will lose all the money invested in the project, which may be catastrophic to the company as it may take a long time for the company to make up for its losses. Furthermore, the travel company may have to revert back to using old methodologies, which will cost the company even more money and wasted time in teaching RMs and employees to use the new system. This also has the consequence of ruining the reputation of both the travel company and the managers responsible for overseeing the project. 
