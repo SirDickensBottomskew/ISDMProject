@@ -7,13 +7,24 @@ In order to satisfy the increasing demand for better customer satisfaction and r
 
 From conducting the empathize phase below, it is concluded that the core problem the travel company is facing is the slow rate of call flow as a result of customers getting matched with Relatonship Managers that may not fit the customer's needs regardless of the RM's knowledge of the product. 
 
-## Stakeholders
+## Stakeholders:
 
 * Travel Company Board of Directors
 * Travel Company CEO
 * Travel Company Relationship Managers
 * Travel Company Employees (Employees are employees of the company before they become RMs)
 * Customers
+
+### Objectives:
+
+* Create a new in-house Customer Relationship Manager (CRM) system with existing and new features including:
+  * Improving operations of the in-house Call Management Center (CMC)
+  * Improve the profiling of customers
+  * Assign RMs to products they are knowledgeable in 
+  * Match Customers with appropriate RMs
+  * Help RMs sell holiday packages to customers
+  * Create a satisfying customer experience over the phone
+  * Help gauge progress levels of RMs
 
 ## Design Thinking Approach
 
@@ -77,7 +88,7 @@ The final step is the testing phase. Prototypes are tested in a practical envrio
 
 
 
-## Reflection - HMWs, objectives & Project Assumptions - Ideate Phase
+## Reflection - HMWs Project Assumptions - Ideate Phase
 
 ### HMW Statements
 
@@ -104,17 +115,6 @@ The final step is the testing phase. Prototypes are tested in a practical envrio
 * How might we design the system so it could build employee's based on their  profile which could potentially assist them in matching right customers according to their needs.
 
 * How might we impliment questionnaire that could assist them in assigning them with right holiday packages which they have knowledge of
-
-### Objectives of the system:
-
-* Create a new in-house Customer Relationship Manager (CRM) system with existing and new features including:
-  * Improving operations of the in-house Call Management Center (CMC)
-  * Improve the profiling of customers
-  * Assign RMs to products they are knowledgeable in 
-  * Match Customers with appropriate RMs
-  * Help RMs sell holiday packages to customers
-  * Create a satisfying customer experience over the phone
-  * Help gauge progress levels of RMs
 
 ### Assumptions
 
@@ -189,6 +189,13 @@ A few assumptions have been made about the current workings of the CMC:
 #### Collaborative Diagrams  
 
 ![alt text](https://raw.githubusercontent.com/SirDickensBottomskew/ISDMProject/master/IMG/ISDM%20Collaboration%20Diagram.png 'Collaborative Diagrams')
+
+## Scrum and its activities
+
+The methodology used in this project is the sprint methodology, namely Scrum, where every sprint is one product release, and every release entails a functional system with the final sprint containing the feature-complete product. The system is developed in relation with our clients, in this case the Travel Company, and should be user oriented to ensure that the final system facilitates the client’s requirements.
+
+To facilitate this methodology, a few activities are used. In addition to the previous activities stated in the report (Problem definition, defining a product backlog and defining product release), to ensure effective communication with the team, daily scrums were held to gauge our progress on the current sprint, where we discussed what we have accomplished thus far and what remains for the current sprint. Furthermore, a retrospective meeting was held at the end of every sprint to review what went right and what went wrong to improve on the next sprint.
+
 
 ## Competitive Advantages & Possible Project Failure
 
