@@ -206,3 +206,6 @@ Carrying on from this, as the system will be able to tailor sales pitches and pr
 Overall the proposed changes to the call management centre will allow the business to grow and tailor its operations to align with the expectations of its customers. By being able to satisfy the needs of its customers through the upgraded systems, the business will be able to continue growing over time whilst ensuring that the system is continuously working effectively.
 
 However, should the project fail, the travel company will lose all the money invested in the project, which may be catastrophic to the company as it may take a long time for the company to make up for its losses. Furthermore, the travel company may have to revert back to using old methodologies, which will cost the company even more money and wasted time in teaching RMs and employees to use the new system. This also has the consequence of ruining the reputation of both the travel company and the managers responsible for overseeing the project. 
+
+# Presentation link:
+https://www.youtube.com/watch?v=xNA6k4Zlwfs
