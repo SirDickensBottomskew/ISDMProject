@@ -5,7 +5,7 @@
 
 In order to satisfy the increasing demand for better customer satisfaction and retention on the phone, the Travel Company decided to implement a new system in its Call Management Center (CMC) to handle and support the influx of inbound and outbound callers, as well as to satisfy the demands of the internal team to effectively communicate with customers.
 
-From conducting the empathize phase below, it is concluded that the core problem the travel company is facing is the slow rate of call flow as a result of customers getting matched with Relatonship Managers that may not fit the customer's needs regardless of the RM's knowledge of the product. 
+From conducting the empathy mapping phase below, it is concluded that the core problem the travel company is facing is the slow rate of call flow as a result of customers getting matched with Relatonship Managers that may not fit the customer's needs regardless of the RM's knowledge of the product. 
 
 ## Stakeholders:
 
@@ -36,7 +36,7 @@ The second step is the Define phase. Here, the problem is defined according to t
 
 The third step is the Ideate phase. For this phase, How Might We statements are made using the POV statements. These HMWs will be used as a backlog to help solve the issues for the project. Ideas for solving these issues are brainstormed and then compiled in order to solve each problem and ultimately solve the defined problem. The best ideas are kept and the less fulfilling ones are removed.
 
-The fourth step is the prototype phase, where various workproducts and models are made in order to visualise ideas in the ideation phase. These are done iteratively as newly identified issues or adjustments may arise as the project. As each workproduct/model is made for an issue, issues get closed so as to view the progress of the project
+The fourth step is the prototype phase, where various workproducts and models are made in order to visualise ideas in the ideation phase. These are done iteratively as newly identified issues or adjustments may arise as the project. As each workproduct/model is made for an issue, issues get closed so as to view the progress of the project.
 
 The final step is the testing phase. Prototypes are tested in a practical envrionment in order to ensure there are no issues with the system. 
 
@@ -64,7 +64,7 @@ The final step is the testing phase. Prototypes are tested in a practical envrio
 
 **POV:**
 
-* Employees need to have their profile built correctly because this will allow them to know which holiday packages they are able to advertise about and which customers to contact or recieve calls from so that they service customers appropriately.
+* Employees need to have their profile built correctly because this will allow them to know which holiday packages they are able to advertise about and which customers to contact or receive calls from so that they service customers appropriately.
 
 * Employees need to answer the questionnaire because this will allow employees to be assigned to holiday packages that they are familiar with and can provide extra details and insights to customers looking to travel to that location.
 
@@ -122,7 +122,7 @@ A few assumptions have been made about the current workings of the CMC:
 
 * System can access customer's database and transaction history from another department 
 
-* System can automatically find customer's profile according to thier phone number
+* System can automatically find customer's profile according to their phone number
 
 * Appropriate budget and project time is available
 
@@ -142,11 +142,11 @@ A few assumptions have been made about the current workings of the CMC:
 
 ### Use Cases:
 
-* **Use Case 1:** System would ask meaningful questionnaire to employee about the company's holiday packages as well as the employee's age, sex, culture and language proficiency. Through the responses the profiler tool woll lodge these details and will be able to detect which is the right product that employee have knowledge of and assign that product or products to the RM
+* **Use Case 1:** System would ask meaningful questionnaire to employee about the company's holiday packages as well as the employee's age, sex, culture and language proficiency. Through the responses, the profiler tool will lodge these details and will be able to detect which is the right product that employee have knowledge of and assign that product or products to the RM
 
-* **Use Case 2:** The board of directors recieve a technical and a financial report of the system from RMs at the end of each week. This report will be used to evaluate the system and address any financial or technical disecrepencies. The board then makes a summary report detailing the system's current state and forwards it to the CEO. The CEO then recieves the report and evaluates the system based on it, and makes any executive decisions accordingly.
+* **Use Case 2:** The board of directors receive a technical and a financial report of the system from RMs at the end of each week. This report will be used to evaluate the system and address any financial or technical disecrepencies. The board then makes a summary report detailing the system's current state and forwards it to the CEO. The CEO then receives the report and evaluates the system based on it, and makes any executive decisions accordingly.
 
-* **Use Case 3:** After every sale made by the RM, a sales counter is incremented. The RM then makes a report including the number of sales made and holdiday package sold. This report is then sent to the board of directors. This is to ensure that the system is working as intended and to evaluate RMs so that the business can generate greater customer satisfaction and profits. 
+* **Use Case 3:** After every sale made by the RM, a sales counter is incremented. The RM then makes a report including the number of sales made and holiday package sold. This report is then sent to the board of directors. This is to ensure that the system is working as intended and to evaluate RMs so that the business can generate greater customer satisfaction and profits. 
 
 * **Use Case 4:** Once the RM has made a call, the system will display the necessary customer information alongside a preplanned script catered for the sales pitch. The system will respond with information about the customers past purchases, preferences and possible future plans. The system will allow the RM to input any additional customer information so that future calls can be sorted even more effectively.
 
@@ -199,7 +199,7 @@ To facilitate this methodology, a few activities are used. In addition to the pr
 
 ## Competitive Advantages & Possible Project Failure
 
-The proposed changes bring a vast range of both short- and long-term benefits for the business. Firstly, implementing the profiler tool in conjunction with sorting RMs to specific calls allows the business to obtain competitive advantage over others as it allows customer calls to be automatically routed to the most appropriate user. As such, customers do not need to wait for prolonged periods or need to be transferred between various RMs in order to obtain the information they request. Next, as the system is iterative in nature and continually can be updated and expanded, it can be rolled out in the business in stages using an agile approach. This allows the call centre to continue operations whilst allowing the updated systems to be trialled. This will allow cost savings and reduce the overall duration of the project. Another competitive advantage is that the business will be able to obtain key data about its clients through the call routing software. For instance, if a customer with a repeat history of booking holidays in certain countries dials, the RM can utilise the system to essentially data mine and specify potential sales most likely to be accepted by the client. This also ties in with the unique use of the profiler tool in which RM details are also configured, allowing them to be routed calls most aligned with their expertise.
+The proposed changes bring a vast range of both short- and long-term benefits for the business. Firstly, implementing the profiler tool in conjunction with sorting RMs to specific calls allows the business to obtain competitive advantage over others as it allows customer calls to be automatically routed to the most appropriate user. As such, customers do not need to wait for prolonged periods or need to be transferred between various RMs in order to obtain the information they request. Next, as the system is iterative in nature and continually can be updated and expanded, it can be rolled out in the business in stages using an agile approach. This allows the call centre to continue operations whilst allowing the updated systems to be trialed. This will allow cost savings and reduce the overall duration of the project. Another competitive advantage is that the business will be able to obtain key data about its clients through the call routing software. For instance, if a customer with a repeat history of booking holidays in certain countries dials, the RM can utilise the system to essentially data mine and specify potential sales most likely to be accepted by the client. This also ties in with the unique use of the profiler tool in which RM details are also configured, allowing them to be routed calls most aligned with their expertise.
 
 Carrying on from this, as the system will be able to tailor sales pitches and provide relevant data specific to incoming callers, RMs can ensure that they are able to provide the best customer experience possible. By having the ability to deliver informative and relevant information, customers will be more inclined to progress with sales as a result of the systems indirect improvements to the businesses retention and customer loyalty. Finally, as the system utilises automated call routing processes, the business can detect high priority callers with repeat history of sales, allowing RMs to pitch to customers most likely to purchase. This in turn gives the business a competitive advantage as it will allow for greater revenue and customer brand loyalty.
 
